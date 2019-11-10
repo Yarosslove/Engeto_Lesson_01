@@ -149,4 +149,4 @@ print('2' + ' - ' + str(uppers) + uppers * ' *' )
 print('3' + ' - ' + str(lowers) + lowers * ' *' )
 print('4' + ' - ' + str(numerics) + numberics * ' *' )
 
-#testing
+#tested
